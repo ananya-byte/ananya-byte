@@ -65,9 +65,8 @@
 </div>
 
 ###
+<h3>🏆 GitHub Trophies</h3>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ananya-byte/ananya-byte/output/snake.svg" alt="Snake animation" />
+![](https://github-profile-trophy.vercel.app/?username=ananya-byte&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ###
