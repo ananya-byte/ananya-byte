@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ananya Dhulipala and I'm a Student Developer from India</h2>
+# 💫 About Me:
+>🔭 I’m currently working on DSA<br>🌱 I’m currently learning Mobile Development<br>💬 Ask me about automation using python<br>⚡ Fun fact: My name 'Ananya' in Sanskrit means 'unique' but,<br>you'll be pleased to know it is anything but that :]
 
 ###
 
