@@ -1,5 +1,5 @@
 # 💫 About Me:
->🔭 I’m currently working on DSA<br>🌱 I’m currently learning Mobile Development<br>💬 Ask me about automation using python<br>⚡ Fun fact: My name 'Ananya' in Sanskrit means 'unique' but,<br>you'll be pleased to know it is anything but that :]
+>🔭 I’m currently working on ML and DL<br>🌱 I’m currently learning Fabric<br>💬 Ask me about any bug that needs some squashing.<br>⚡ Fun fact: My name 'Ananya' in Sanskrit means 'unique' but,<br>you'll be pleased to know it is anything but that :]
 
 ###
 
