@@ -1,5 +1,9 @@
 # 💫 About Me:
->🔭 I’m currently working on ML and DL<br>🌱 I’m currently learning Fabric<br>💬 Ask me about any bug that needs some squashing.<br>⚡ Fun fact: My name 'Ananya' in Sanskrit means 'unique' but,<br>you'll be pleased to know it is anything but that :]
+>🔭 Platform Engineer at Eli Lilly Co<br>
+🌱 Exploring Microsoft Fabric<br>
+🧠 I'm deeply passionate about AI, working on Neurosymbolic AI and pushing the boundaries of symbolic reasoning<br>
+💬 Ask me about any bug that needs some squashing.<br>
+⚡ Fun fact: My name 'Ananya' in Sanskrit means 'unique' but,<br>you'll be pleased to know it is anything but that :]
 
 ###
 
