@@ -2,7 +2,7 @@
 
 **Platform Engineer @ Eli Lilly** · AI researcher · Builder of things that shouldn't exist but do
 
-I work at the intersection of data engineering and AI — currently exploring **Neurosymbolic AI** (making neural networks actually reason) and **Microsoft Fabric** for large-scale data pipelines. I like projects where the problem is interesting enough that the solution doesn't have to be pretty.
+I work at the intersection of data engineering and AI — drawn to problems where understanding *what* the data shows is as hard as building the pipeline that gets it there. Currently deep in **computer vision** and **data science**, with a particular interest in how attention-based models see the world.
 
 ---
 
@@ -10,9 +10,10 @@ I work at the intersection of data engineering and AI — currently exploring **
 
 | Area | Focus |
 |------|-------|
-| 🧠 Neurosymbolic AI | Integrating symbolic reasoning with neural architectures |
+| 👁️ Computer Vision | Object detection, image classification, and vision transformers on real-world datasets |
+| 📊 Data Science | Feature engineering, model evaluation, and ML pipelines at scale |
+| 🧠 Neurosymbolic AI | Combining symbolic reasoning with neural architectures for interpretable models |
 | ☁️ Microsoft Fabric | Data engineering and lakehouse patterns at scale |
-| 🤖 Multimodal AI | Cross-modal validation and evaluation frameworks |
 
 ---
 
@@ -25,9 +26,15 @@ I work at the intersection of data engineering and AI — currently exploring **
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+**ML & Data**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
 **Frameworks & Tools**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
